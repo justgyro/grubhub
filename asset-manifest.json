@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/grubhub/static/css/main.baf24add.chunk.css",
+    "main.js": "/grubhub/static/js/main.d305e46e.chunk.js",
+    "main.js.map": "/grubhub/static/js/main.d305e46e.chunk.js.map",
+    "runtime-main.js": "/grubhub/static/js/runtime-main.53b32632.js",
+    "runtime-main.js.map": "/grubhub/static/js/runtime-main.53b32632.js.map",
+    "static/js/2.67207190.chunk.js": "/grubhub/static/js/2.67207190.chunk.js",
+    "static/js/2.67207190.chunk.js.map": "/grubhub/static/js/2.67207190.chunk.js.map",
+    "index.html": "/grubhub/index.html",
+    "precache-manifest.d0ae97231b61ffe9451ecb9b2a1cfbae.js": "/grubhub/precache-manifest.d0ae97231b61ffe9451ecb9b2a1cfbae.js",
+    "service-worker.js": "/grubhub/service-worker.js",
+    "static/css/main.baf24add.chunk.css.map": "/grubhub/static/css/main.baf24add.chunk.css.map",
+    "static/media/SearchBar.css": "/grubhub/static/media/background_search_mobile.5d0905e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53b32632.js",
+    "static/js/2.67207190.chunk.js",
+    "static/css/main.baf24add.chunk.css",
+    "static/js/main.d305e46e.chunk.js"
+  ]
+}
